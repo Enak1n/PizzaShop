@@ -1,0 +1,74 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Pizzeria
+build_property.RootNamespace = Pizzeria
+build_property.ProjectDir = D:\VisuaStudioProj\Pizzeria\Pizzeria\
+build_property.RazorLangVersion = 5.0
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\VisuaStudioProj\Pizzeria\Pizzeria
+build_property._RazorSourceGeneratorDebug = 
+build_property._RazorSourceGeneratorLog = 
+
+[d:/VisuaStudioProj/Pizzeria/Pizzeria/Pages/Checkout/Checkout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Pages\Checkout\Checkout.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\VisuaStudioProj\Pizzeria\Pizzeria\obj\Debug\net6.0\Razor\Pages\Checkout\Checkout.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/VisuaStudioProj/Pizzeria/Pizzeria/Pages/Checkout/ThankYou.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Pages\Checkout\ThankYou.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\VisuaStudioProj\Pizzeria\Pizzeria\obj\Debug\net6.0\Razor\Pages\Checkout\ThankYou.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/VisuaStudioProj/Pizzeria/Pizzeria/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Pages\Error.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\VisuaStudioProj\Pizzeria\Pizzeria\obj\Debug\net6.0\Razor\Pages\Error.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/VisuaStudioProj/Pizzeria/Pizzeria/Pages/Forms/CustomPizza.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Pages\Forms\CustomPizza.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\VisuaStudioProj\Pizzeria\Pizzeria\obj\Debug\net6.0\Razor\Pages\Forms\CustomPizza.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/VisuaStudioProj/Pizzeria/Pizzeria/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Pages\Index.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\VisuaStudioProj\Pizzeria\Pizzeria\obj\Debug\net6.0\Razor\Pages\Index.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/VisuaStudioProj/Pizzeria/Pizzeria/Pages/Orders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Pages\Orders.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\VisuaStudioProj\Pizzeria\Pizzeria\obj\Debug\net6.0\Razor\Pages\Orders.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/VisuaStudioProj/Pizzeria/Pizzeria/Pages/Pizza.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Pages\Pizza.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\VisuaStudioProj\Pizzeria\Pizzeria\obj\Debug\net6.0\Razor\Pages\Pizza.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/VisuaStudioProj/Pizzeria/Pizzeria/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Pages\Privacy.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\VisuaStudioProj\Pizzeria\Pizzeria\obj\Debug\net6.0\Razor\Pages\Privacy.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/VisuaStudioProj/Pizzeria/Pizzeria/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Pages\Shared\_ValidationScriptsPartial.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\VisuaStudioProj\Pizzeria\Pizzeria\obj\Debug\net6.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/VisuaStudioProj/Pizzeria/Pizzeria/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Pages\_ViewImports.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\VisuaStudioProj\Pizzeria\Pizzeria\obj\Debug\net6.0\Razor\Pages\_ViewImports.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/VisuaStudioProj/Pizzeria/Pizzeria/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Pages\_ViewStart.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\VisuaStudioProj\Pizzeria\Pizzeria\obj\Debug\net6.0\Razor\Pages\_ViewStart.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = 
+
+[d:/VisuaStudioProj/Pizzeria/Pizzeria/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Pages\Shared\_Layout.cshtml
+build_metadata.AdditionalFiles.GeneratedOutputFullPath = D:\VisuaStudioProj\Pizzeria\Pizzeria\obj\Debug\net6.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+build_metadata.AdditionalFiles.CssScope = b-0hjetmpk24
